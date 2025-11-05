@@ -41,8 +41,3 @@ export default App
  Complete the link section in the google sheets database
  and make sure all the links have a "https://" in front of them
 */
-
-
-/* Add a contact me page or something similar 
- so that users can tell me what courses or schools they want.
- */ 
